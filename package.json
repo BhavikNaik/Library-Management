@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-redux": "^8.0.5",
+    "react-redux-form": "^1.16.14",
+    "react-router-dom": "^6.4.3",
+    "reactstrap": "^9.1.5"
+  }
+}
