@@ -1,6 +1,6 @@
 # MERN-Library_Management_System
-### I Bhavik, has contributed the frontend in this project with React.js
-### A library management system designed to handle the basic operations of a library - issues and returns.
+
+### I Bhavik with my colleagues have built a library management system designed to handle the basic operations of a library - issues and returns.
 
  ![image](https://user-images.githubusercontent.com/72610095/204927390-7d85d46c-878a-43f1-bb67-a812215ebba9.png)
 ![image](https://user-images.githubusercontent.com/72610095/204927421-69e36a1b-821e-484c-a1fa-bac1d4454a90.png)
